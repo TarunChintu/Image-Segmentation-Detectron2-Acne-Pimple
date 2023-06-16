@@ -1,0 +1,4 @@
+
+pyyaml==5.1
+detectron2: 0.6
+torch:  1.13 
